@@ -1,0 +1,50 @@
+.buscador{
+    padding-top: 15px;
+    text-align: center;
+    background-color: whitesmoke;
+    vertical-align: central;
+}
+
+.inputlabel {
+    display: block;
+}
+
+.centrado{
+    display: block;
+    margin: 0 auto;
+}
+
+.sinplayas {
+    text-align: center; padding-top: 50px; padding-bottom: 50px
+}
+
+.playa {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.playaimagen{
+    width: 150px;
+    height: 150px;
+}
+
+.carita{
+    width: 50px;
+    height: 50px;
+}
+.playas {
+    background-color: whitesmoke;
+    margin: 20px;
+}
+
+.rating {
+	font-size: 0 ;
+	display: inline-block ;
+}
+
+.rating:hover a {
+	color: gold ;
+}
+.rating > a:hover ~ a {
+	color: #888 ;
+}
